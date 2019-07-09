@@ -1,4 +1,4 @@
-# Robust-Journey-Planning
+# Robust-Journey-Planner
 
 Lab in Data Science - Final Project
 
