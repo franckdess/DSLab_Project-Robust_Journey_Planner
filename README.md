@@ -1,4 +1,4 @@
-# Robust-Journey-Planner
+# DSLab - Robust Journey Planner
 
 Lab in Data Science - Final Project
 
